@@ -1,0 +1,8 @@
+<testXML2>
+  <ActionPerWorker>
+    <ActionGroup localMultiplier_="1">
+      <ActionResource resource_="testRes" amount_="4.2" />
+      <ActionLifespan amount_="2.1" />
+    </ActionGroup>
+  </ActionPerWorker>
+</testXML2>
